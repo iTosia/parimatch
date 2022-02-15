@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Parimatch Thin";
+  src: url(../fonts/Parimatch-Thin.otf);
+  src: url(../fonts/Parimatch-Thin.otf) format("opentype");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Parimatch Light";
+  src: url(../fonts/Parimatch-Light.otf);
+  src: url(../fonts/Parimatch-Light.otf) format("opentype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Parimatch Regular";
+  src: url(../fonts/Parimatch-Regular.otf);
+  src: url(../fonts/Parimatch-Regular.otf) format("opentype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Parimatch Medium";
+  src: url(../fonts/Parimatch-Medium.otf);
+  src: url(../fonts/Parimatch-Medium.otf) format("opentype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Parimatch Bold";
+  src: url(../fonts/PariMatchBold.eot);
+  src: url(../fonts/Parimatch-Bold.otf) format("opentype");
+  font-weight: 700;
+}
